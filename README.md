@@ -1,2 +1,5 @@
-# all-react
-# all-react
+# react practices 
+- React JS Crash Course 2022
+- React Basics at Scrima
+
+
